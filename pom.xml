@@ -88,5 +88,11 @@
             <version>1.1.2</version>
             <scope>provided</scope>
         </dependency>
+<!--        <dependency>-->
+<!--            <groupId>net.Indyuce</groupId>-->
+<!--            <artifactId>MMOCore</artifactId>-->
+<!--            <version>1.7.1</version>-->
+<!--            <scope>provided</scope>-->
+<!--        </dependency>-->
     </dependencies>
 </project>

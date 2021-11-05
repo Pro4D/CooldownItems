@@ -2,5 +2,6 @@ name: CooldownItems
 version: '${project.version}'
 main: io.github.pro4d.cooldownitems.CooldownItems
 depend: [ MMOItems ]
+api-version: 1.16
 authors: [ Pro4D ]
 description: Display ability cooldown for items from the MMOItems plugin!
