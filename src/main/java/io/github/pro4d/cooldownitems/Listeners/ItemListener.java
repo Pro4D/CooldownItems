@@ -33,6 +33,7 @@ public class ItemListener implements Listener {
 
         if(nbtItem.hasTag("MMOITEMS_ITEM_COOLDOWN")) {
             Player player = event.getPlayer();
+
             double cooldown = nbtItem.getDouble("MMOITEMS_ITEM_COOLDOWN");
 
             player.setCooldown(nbtItem.getItem().getType(), (int) (cooldown * 20));
