@@ -1,7 +1,0 @@
-name: CooldownItems
-version: '1.0-SNAPSHOT'
-main: io.github.pro4d.cooldownitems.CooldownItems
-depend: [ MMOItems ]
-api-version: 1.16
-authors: [ Pro4D ]
-description: Display ability cooldown for items from the MMOItems plugin!
